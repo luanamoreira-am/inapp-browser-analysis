@@ -19,15 +19,6 @@ A pasta [`agent/`](agent/README.md) detalha a arquitetura e o processo de trabal
 | 2 | [validation_criterion.md](agent/validation_criterion.md) |
 | 3 | [reusable_template.md](agent/reusable_template.md) |
 
----
-
-### Documentação da análise do Teste A/B/C do In-App Browser do Méliuz
-
-- [Process, AI and Scalability](docs/Process, AI and Scalability/README.md) — processo de análise, ferramentas e escalabilidade
-- [Entrega 1 — Análise do teste e recomendação](docs/entrega_1_analise e recomendação.md)
-- [Entrega 2 — Próxima melhoria](#entrega-2--próxima-melhoria)
-- [Entrega 2 — Quebra Técnica da PRD](docs/entrega_2_prd.md)
-- [Entrega 2 — Diagnóstico e Proposta de Melhoria](docs/entrega_2_diagnóstico.md)
 
 ---
 
