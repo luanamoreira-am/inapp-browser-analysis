@@ -1,4 +1,4 @@
-# Estratégias de Reaproveitamento
+# Reusable Template — Estratégias de Reaproveitamento
 
 ## Reaproveitamento
 

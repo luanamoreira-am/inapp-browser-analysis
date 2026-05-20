@@ -1,4 +1,4 @@
-# Mecanismos de Validação
+# Validation Criterion — Mecanismos de Validação e Critérios de Qualidade
 
 ## Validações
 

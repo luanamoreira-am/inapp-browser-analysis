@@ -20,11 +20,11 @@ O processo de análise seguiu as seguintes etapas:
 - statistical_analysis.py: Script para realizar a análise estatística, calculando o lift e o p-valor para a taxa de conversão e o lift para a RPV, comparando as variantes de teste com o controle.
 - visualize_results.py: Script para gerar visualizações gráficas (Taxa de Conversão, RPV, Distribuição de Canais) utilizando matplotlib e seaborn, para facilitar a compreensão dos resultados.
 
-5.Execução e Iteração: Os scripts Python foram executados no ambiente sandbox. Em caso de erros (como a ausência da biblioteca scipy), as dependências foram instaladas (sudo pip3 install scipy) e os scripts reexecutados. Os resultados foram salvos em arquivos CSV para posterior consulta e incorporação no relatório.
+5. Execução e Iteração: Os scripts Python foram executados no ambiente sandbox. Em caso de erros (como a ausência da biblioteca scipy), as dependências foram instaladas (sudo pip3 install scipy) e os scripts reexecutados. Os resultados foram salvos em arquivos CSV para posterior consulta e incorporação no relatório.
 
-6.Geração de Visualizações: As visualizações foram geradas e salvas como arquivos PNG para serem incluídas no relatório final.
+6. Geração de Visualizações: As visualizações foram geradas e salvas como arquivos PNG para serem incluídas no relatório final.
 
-7.Redação do Relatório: Consolidação de todas as informações, análises, recomendações e insights em um documento Markdown estruturado.
+7. Redação do Relatório: Consolidação de todas as informações, análises, recomendações e insights em um documento Markdown estruturado.
 
 **Validação e redução de riscos**
 
